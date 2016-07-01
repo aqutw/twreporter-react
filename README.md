@@ -1,4 +1,6 @@
 # TW Reporter
+
+[![Join the chat at https://gitter.im/aqutw/twreporter-react](https://badges.gitter.im/aqutw/twreporter-react.svg)](https://gitter.im/aqutw/twreporter-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 New Media foundation in Taiwan.
 
 # Environment
